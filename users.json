@@ -11,9 +11,9 @@
           },
           {
             "title": "Vital2",
-            "average": 68,
-            "min": 59,
-            "max": 112
+            "average": 638,
+            "min": 539,
+            "max": 1312
           }
         ]
       },
@@ -28,9 +28,9 @@
           },
           {
             "title": "Vital2",
-            "average": 682,
-            "min": 592,
-            "max": 1122
+            "average": 6832,
+            "min": 5923,
+            "max": 11322
           }
         ]
       }
