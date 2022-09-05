@@ -5,13 +5,13 @@
         "vitals": [
           {
             "title": "Vital1",
-            "average": "68.3234-56.976",
+            "average": "8.3-7.8",
             "min": 59,
             "max": 112
           },
           {
             "title": "Vital2",
-            "average": "68.3234-56.976",
+            "average": 6.76,
             "min": 539,
             "max": 1312
           }
@@ -22,13 +22,13 @@
         "vitals": [
           {
             "title": "Vital1",
-            "average": "68.3234-56.976",
+            "average": 56.976,
             "min": 592,
             "max": 1122
           },
           {
             "title": "Vital2",
-            "average": "68.3234-56.976",
+            "average": 68.323,
             "min": 5923,
             "max": 11322
           }
