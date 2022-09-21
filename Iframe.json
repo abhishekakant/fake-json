@@ -1,0 +1,130 @@
+{
+    "foo key": "foo value",
+    "iframes": [
+        {
+            "category": "Activity & Nutrition",
+            "title": "Title #0",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Forecasts",
+            "title": "Title #1",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Forecasts",
+            "title": "Title #2",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Activity & Nutrition",
+            "title": "Title #3",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Forecasts",
+            "title": "Title #4",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Forecasts",
+            "title": "Title #5",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Forecasts",
+            "title": "Title #6",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "All Vitals",
+            "title": "Title #7",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "All Vitals",
+            "title": "Title #8",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Forecasts",
+            "title": "Title #9",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Other",
+            "title": "Title #10",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Other",
+            "title": "Title #11",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "All Vitals",
+            "title": "Title #12",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Other",
+            "title": "Title #13",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "All Vitals",
+            "title": "Title #14",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Activity & Nutrition",
+            "title": "Title #15",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Cardio Health",
+            "title": "Title #16",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "All Vitals",
+            "title": "Title #17",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Activity & Nutrition",
+            "title": "Title #18",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Cardio Health",
+            "title": "Title #19",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "All Vitals",
+            "title": "Title #20",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "All Vitals",
+            "title": "Title #21",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Forecasts",
+            "title": "Title #22",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Other",
+            "title": "Title #23",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        },
+        {
+            "category": "Other",
+            "title": "Title #24",
+            "url": "<iframe src=\"https://panels.alyf.health/d-solo/5dEzdEjnk/alyf-prod-clean-vital-data?orgId=2&refresh=5s&from=1631994664889&to=1663530664889&var-datasource=Elasticsearch&var-name=Brian+Mcclure&var-vital=BP+-+Diastolic&panelId=3\" width=\"450\" height=\"200\" frameborder=\"0\"></iframe>"
+        }
+    ]
+}
