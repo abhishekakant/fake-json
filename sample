@@ -3,7 +3,7 @@
     "activity",
     "heartrate",
     "weight",
-    "bp"
+    "blood-pressure"
   ],
   "data": [
     {
