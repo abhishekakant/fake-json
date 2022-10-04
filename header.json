@@ -15,10 +15,10 @@
   ],
   "data": [
     {
-      "Active Minutes": 5,
-      "Activity": 562,
-      "BP": "---/--",
-      "Basal metabolic rate (BMR)": 1935,
+      "vital1": 5,
+      "vital2": 562,
+      "vital3": "---/--",
+      "vital4": 1935,
       "Body Fat Percentage": 23,
       "Calories burned": 75,
       "Distance delta": 263,
@@ -32,10 +32,10 @@
       "status": "On Track"
     },
     {
-      "Active Minutes": 5,
-      "Activity": 602,
-      "BP": "122/82",
-      "BP - Diastolic": 82,
+      "vital1": 5,
+      "vital2": 602,
+      "vital3": "122/82",
+      "vital4 82,
       "BP - Systolic": 122,
       "Basal metabolic rate (BMR)": 1780,
       "Body Fat Percentage": 20,
