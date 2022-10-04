@@ -1,16 +1,28 @@
 {
   "Headers": [
     {
-      "vital1": "activity"
-    },
-    {
-      "vital2": "heart"
-    },
-    {
-      "vital3": "weight"
-    },
-    {
+      "vital1": "activity",
+      "vital2": "heart",
+      "vital3": "weight",
       "vital4": "blood-pressure"
+    }
+  ],
+  "data": [
+    {
+      "vital1": 5,
+      "vital2": 562,
+      "vital3": "---/--",
+      "vital4": 1935,
+      "name": "David Jones",
+      "status": "On Track"
+    },
+    {
+      "vital1": 6,
+      "vital2": 602,
+      "vital3": "122/82",
+      "vital4": 82,
+      "name": "Nikki Phares",
+      "status": "Off Track"
     }
   ]
 }
